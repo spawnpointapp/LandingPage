@@ -9,6 +9,7 @@ module.exports = {
       'flashbang': '#FFFFFF',
       'pitch': '#000000',
       'linkblue': '#4260FF',
+      'gildedgold': '#F5C400',
 
     },
     extend: {},
