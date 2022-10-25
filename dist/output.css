@@ -697,6 +697,10 @@ video {
   clear: none;
 }
 
+.ml-16 {
+  margin-left: 4rem;
+}
+
 .mt-2 {
   margin-top: 0.5rem;
 }
@@ -2300,13 +2304,14 @@ video {
 }
 
 .hero {
-  width: 100%;
+  width: 45%;
   justify-self: center;
   max-width: 1300px;
+  margin-left: 100%;
 }
 
 .heroimg {
-  width: 400px;
+  width: 700px ;
 }
 
 a {
