@@ -1856,15 +1856,6 @@ video {
   line-height: 1.75rem;
 }
 
-.text-2xl {
-  font-size: 1.5rem;
-  line-height: 2rem;
-}
-
-.font-semibold {
-  font-weight: 600;
-}
-
 .font-bold {
   font-weight: 700;
 }
@@ -2271,7 +2262,7 @@ video {
 
 img {
   background-color: #ffffff00;
-  width: 35%;
+  width: 15%;
   max-width: 50%;
 }
 
