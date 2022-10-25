@@ -1786,6 +1786,10 @@ video {
      object-fit: scale-down;
 }
 
+.p-16 {
+  padding: 4rem;
+}
+
 .text-left {
   text-align: left;
 }
@@ -1840,6 +1844,25 @@ video {
 
 .align-super {
   vertical-align: super;
+}
+
+.text-5xl {
+  font-size: 3rem;
+  line-height: 1;
+}
+
+.text-xl {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+.font-semibold {
+  font-weight: 600;
 }
 
 .font-bold {
@@ -1912,6 +1935,11 @@ video {
 .stacked-fractions {
   --tw-numeric-fraction: stacked-fractions;
   font-variant-numeric: var(--tw-ordinal) var(--tw-slashed-zero) var(--tw-numeric-figure) var(--tw-numeric-spacing) var(--tw-numeric-fraction);
+}
+
+.text-flashbang {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
 .text-\[\#336699\]\/\[\.35\] {
@@ -2237,8 +2265,8 @@ video {
 
 * {
   background-color: #000000;
-  color: rgb(0, 0, 0);
-  padding: 2px
+  padding: 5px;
+  font-family: 'Red Hat Display', sans-serif;
 }
 
 img {
