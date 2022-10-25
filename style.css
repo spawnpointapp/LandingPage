@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+  background-color: #000000;
+  color: rgb(0, 0, 0);
+  padding: 2px
+}
+
+img {
+  background-color: #ffffff00;
+  width: 35%;
+  max-width: 50%;
+
+
+}
