@@ -1810,6 +1810,10 @@ video {
   padding: 1rem;
 }
 
+.p-14 {
+  padding: 3.5rem;
+}
+
 .px-8 {
   padding-left: 2rem;
   padding-right: 2rem;
@@ -2383,6 +2387,18 @@ video {
 
   .sm\:justify-center {
     justify-content: center;
+  }
+
+  .sm\:p-14 {
+    padding: 3.5rem;
+  }
+
+  .sm\:p-24 {
+    padding: 6rem;
+  }
+
+  .sm\:p-6 {
+    padding: 1.5rem;
   }
 
   .sm\:px-4 {
