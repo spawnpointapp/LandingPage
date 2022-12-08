@@ -1814,6 +1814,14 @@ video {
   padding: 3.5rem;
 }
 
+.p-28 {
+  padding: 7rem;
+}
+
+.p-6 {
+  padding: 1.5rem;
+}
+
 .px-8 {
   padding-left: 2rem;
   padding-right: 2rem;
@@ -1822,6 +1830,41 @@ video {
 .px-4 {
   padding-left: 1rem;
   padding-right: 1rem;
+}
+
+.px-16 {
+  padding-left: 4rem;
+  padding-right: 4rem;
+}
+
+.px-52 {
+  padding-left: 13rem;
+  padding-right: 13rem;
+}
+
+.px-3 {
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+}
+
+.px-2 {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+.px-1 {
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+}
+
+.px-44 {
+  padding-left: 11rem;
+  padding-right: 11rem;
+}
+
+.px-96 {
+  padding-left: 24rem;
+  padding-right: 24rem;
 }
 
 .pb-96 {
@@ -1834,6 +1877,10 @@ video {
 
 .pb-4 {
   padding-bottom: 1rem;
+}
+
+.pl-24 {
+  padding-left: 6rem;
 }
 
 .text-left {
@@ -2401,6 +2448,14 @@ video {
     padding: 1.5rem;
   }
 
+  .sm\:p-10 {
+    padding: 2.5rem;
+  }
+
+  .sm\:p-36 {
+    padding: 9rem;
+  }
+
   .sm\:px-4 {
     padding-left: 1rem;
     padding-right: 1rem;
@@ -2414,6 +2469,11 @@ video {
   .sm\:px-8 {
     padding-left: 2rem;
     padding-right: 2rem;
+  }
+
+  .sm\:px-52 {
+    padding-left: 13rem;
+    padding-right: 13rem;
   }
 
   .sm\:underline {
