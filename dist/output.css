@@ -1733,8 +1733,8 @@ video {
           background-clip: text;
 }
 
-.bg-center {
-  background-position: center;
+.bg-left {
+  background-position: left;
 }
 
 .bg-repeat {
