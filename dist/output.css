@@ -1680,6 +1680,14 @@ video {
   --tw-bg-opacity: 0.25;
 }
 
+.bg-opacity-100 {
+  --tw-bg-opacity: 1;
+}
+
+.bg-opacity-0 {
+  --tw-bg-opacity: 0;
+}
+
 .decoration-slice {
   -webkit-box-decoration-break: slice;
           box-decoration-break: slice;
@@ -1840,6 +1848,10 @@ video {
 
 .pb-4 {
   padding-bottom: 1rem;
+}
+
+.pb-56 {
+  padding-bottom: 14rem;
 }
 
 .text-left {
